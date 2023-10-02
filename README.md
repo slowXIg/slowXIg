@@ -1,0 +1,4 @@
+- 👋 Oi, me chamo @slowXIg mais conhecido como igor
+- 👀 Eu sou novo na área de Programação, e estou sempre atras de descobrir coisas nova!
+- 🌱 Atualmente estou aprendendo C#
+  - 📫 Para entrar em contato comigo so me chamar no instagram
